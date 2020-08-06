@@ -1,0 +1,25 @@
+{
+  "name": "layout-controller",
+  "version": "1.0.0",
+  "description": "Layout and Controller repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLBendak/layout-controller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLBendak/layout-controller/issues"
+  },
+  "homepage": "https://github.com/SLBendak/layout-controller#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
